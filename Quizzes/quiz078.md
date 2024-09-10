@@ -23,3 +23,4 @@ def get_ham_template(msg) -> list:
 ```
 
 ## 2. Proof of Work
+<img width="253" alt="Quiz078" src="https://github.com/user-attachments/assets/aa34f40c-6481-47eb-90f8-a42a67e331a8">

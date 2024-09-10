@@ -32,3 +32,4 @@ def calculate_ham_P(msg):
 ```
 
 ## 2. Proof of Work
+<img width="263" alt="Quiz079" src="https://github.com/user-attachments/assets/0f985208-6a5e-432b-a248-914512666f00">

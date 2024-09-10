@@ -19,8 +19,6 @@ def calculate_ham_P(msg):
         bit_sum = 0
         for bit in equation[1:]:
             bit_sum += int(out_msg[bit])
-        print(equation)
-        print(bit_sum)
         if bit_sum % 2 == 0:
             out_msg[parity_bit] = '0'
         else:

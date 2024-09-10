@@ -1,6 +1,10 @@
 # Quiz073
 
-## 1. Solution
+## 1. Paper work
+
+
+
+## 2. Solution
 ```.py
 def error_check(binary):
     error = False
@@ -23,6 +27,6 @@ else:
 ```
 
 
-## 2. Proof of Work
+## 3. Proof of Work
 
 <img width="425" alt="Quiz073" src="https://github.com/user-attachments/assets/9dc19fd0-d10f-43d9-8df8-ba7faf04ebbd">

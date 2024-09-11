@@ -2,6 +2,7 @@
 
 ## 1. Paper work
 
+![Quiz073C](https://github.com/user-attachments/assets/37206004-667c-44df-982b-ec5b2c2b7647)
 
 
 ## 2. Solution

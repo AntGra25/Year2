@@ -1,6 +1,11 @@
 # Quiz074
 
-## 1. Solution
+## 1. Paper Work
+
+![Quiz074C](https://github.com/user-attachments/assets/7feb5711-030d-4214-8716-803661ba300e)
+
+
+## 2. Solution
 ```.py
 def error_check2(msg):
     if len(msg) % 3 != 0:
@@ -31,5 +36,5 @@ print(error_check2(test))
 
 ```
 
-## 2. Proof of Work
+## 3. Proof of Work
 <img width="248" alt="Quiz074" src="https://github.com/user-attachments/assets/ca249a2e-4c35-4ee3-acac-b185c9c05b28">

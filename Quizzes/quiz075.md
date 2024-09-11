@@ -1,6 +1,11 @@
 # Quiz075
 
-## 1. Solution
+## 1. Paper Work
+
+![Quiz075C](https://github.com/user-attachments/assets/01155694-ed10-44cf-8873-5b3d99901217)
+
+
+## 2. Solution
 ```.py
 from matplotlib import pyplot as plt
 
@@ -24,6 +29,6 @@ plt.show()
 
 ```
 
-## 2. Proof of Work
+## 3. Proof of Work
 
 <img width="475" alt="Quiz075" src="https://github.com/user-attachments/assets/4308d85c-9b84-4d64-b22e-1faf895058f6">

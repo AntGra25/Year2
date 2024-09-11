@@ -1,6 +1,11 @@
 # Quiz 077
 
-## 1. Solution
+## 1.  Paper Work
+
+![Quiz077C](https://github.com/user-attachments/assets/c7413925-ac40-4908-8815-a18acff02227)
+
+
+## 2. Solution
 
 ```.py
 def ham_parity(num, P):  # num is k + n
@@ -11,6 +16,6 @@ def ham_parity(num, P):  # num is k + n
     return output
 ```
 
-## 2. Proof of Work
+## 3. Proof of Work
 
 <img width="253" alt="Quiz077" src="https://github.com/user-attachments/assets/c5f97982-1e76-41b6-84eb-2b188dc034ce">

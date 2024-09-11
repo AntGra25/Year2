@@ -1,6 +1,11 @@
 # Quiz 079
 
-## 1. Solution
+## 1. Paper Work
+
+![Quiz079C](https://github.com/user-attachments/assets/1bda9317-42e6-416b-8ee2-e97efe95a1eb)
+
+
+## 2. Solution
 
 ```.py
 from quiz075 import get_ham_k
@@ -31,5 +36,5 @@ def calculate_ham_P(msg):
 
 ```
 
-## 2. Proof of Work
+## 3. Proof of Work
 <img width="263" alt="Quiz079" src="https://github.com/user-attachments/assets/0f985208-6a5e-432b-a248-914512666f00">

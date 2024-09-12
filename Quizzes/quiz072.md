@@ -2,6 +2,7 @@
 
 ## 1. Solution
 
+```.py
 DATA = ['Ankara', 'Turkey', 'Tokyo', 'Japan', 'Lisbon', 'Portugal']
 
 size = 0
@@ -19,3 +20,4 @@ WHILE DATA.hasNext()
   CITY[count] = DATA.getNext()
   CAPITAL[count] = DATA.getNext()
   count += 1
+```

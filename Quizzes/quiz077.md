@@ -8,14 +8,14 @@
 ## 2. Solution
 
 ```.py
-def ham_parity(num, P):  # num is k + n
+def get_ham_equation(num, P):  # num is k + n
     output = []
     for i in range(num + 1):
         if i & 2 ** (P - 1):
-            output.append(i)
+            output.append(i - 1)
     return output
 ```
 
 ## 3. Proof of Work
 
-<img width="253" alt="Quiz077" src="https://github.com/user-attachments/assets/c5f97982-1e76-41b6-84eb-2b188dc034ce">
+<img width="305" alt="Quiz077" src="https://github.com/user-attachments/assets/4dc56279-186c-45b8-96c7-6bd9ea96dd08">

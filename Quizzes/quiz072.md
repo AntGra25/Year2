@@ -20,4 +20,5 @@ WHILE DATA.hasNext()
   CITY[count] = DATA.getNext()
   CAPITAL[count] = DATA.getNext()
   count += 1
+END LOOP
 ```

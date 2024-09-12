@@ -25,9 +25,9 @@ def calculate_ham_P(msg):
         for bit in equation[1:]:
             bit_sum += int(out_msg[bit])
         if bit_sum % 2 == 0:
-            out_msg[parity_bit] = '0'
-        else:
             out_msg[parity_bit] = '1'
+        else:
+            out_msg[parity_bit] = '0'
 
     output = ''
     for i in out_msg:
@@ -37,4 +37,5 @@ def calculate_ham_P(msg):
 ```
 
 ## 3. Proof of Work
-<img width="263" alt="Quiz079" src="https://github.com/user-attachments/assets/0f985208-6a5e-432b-a248-914512666f00">
+<img width="207" alt="Quiz079" src="https://github.com/user-attachments/assets/a6bc3c79-23f4-479f-bdf1-dcd5062604d9">
+

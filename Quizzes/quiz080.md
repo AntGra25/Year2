@@ -8,7 +8,15 @@
 ## 2. Solution
 
 ```.py
-
+def F(N):
+    if len(N) == 1:
+        return N[0]
+    else:
+        M = F(N[1:])
+        if N[0] > M:
+            return N[0]
+        else:
+            return M
 ```
 
 ## 3. Proof of Work

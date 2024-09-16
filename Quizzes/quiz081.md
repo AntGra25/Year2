@@ -22,10 +22,6 @@ def P(S, k):
             T = swap(S, k, i)
             out.extend(P(T, k + 1))
         return out
-
-
-print(P('AB', 1))
-
 ```
 
 ## 3. Proof of Work

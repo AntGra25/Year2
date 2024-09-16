@@ -13,3 +13,4 @@ def FUNC(N):
 
 ## 3. Proof of Work
 
+<img width="209" alt="Quiz082" src="https://github.com/user-attachments/assets/61bd4b29-037e-4517-98b0-cab764040e0e">

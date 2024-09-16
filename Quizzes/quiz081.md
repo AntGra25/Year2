@@ -26,3 +26,4 @@ def P(S, k):
 
 ## 3. Proof of Work
 
+<img width="224" alt="Quiz081" src="https://github.com/user-attachments/assets/e32ba297-42e5-4cc9-b2a9-f5f5ebffdadd">

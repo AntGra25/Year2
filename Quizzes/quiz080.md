@@ -20,3 +20,5 @@ def F(N):
 ```
 
 ## 3. Proof of Work
+
+<img width="215" alt="Quiz080" src="https://github.com/user-attachments/assets/0b8d7372-c571-4279-b055-4f4b7259df80">

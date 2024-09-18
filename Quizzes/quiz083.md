@@ -2,6 +2,8 @@
 
 ## 1. Trace Table
 
+![Quiz083C](https://github.com/user-attachments/assets/5bcdb606-47cd-4244-bb37-734d6c8acce7)
+
 ## 2. Solution
 
 ```.py

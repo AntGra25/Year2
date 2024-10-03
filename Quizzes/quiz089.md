@@ -5,7 +5,7 @@
 ## 2. Solution
 
 ```.py
-from quiz087 import Stack
+from quiz088 import Stack
 
 
 class Collection:
@@ -53,4 +53,5 @@ print(f"The result is: {result}")
 ```
 
 ## 3. Proof of Work
+<img width="344" alt="Quiz089" src="https://github.com/user-attachments/assets/89901db6-4767-4f4d-a784-4bb0c06391f6">
 

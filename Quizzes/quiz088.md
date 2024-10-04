@@ -26,3 +26,17 @@ class Stack:
 ```
 
 ## 3. Proof of Work
+
+### Test Code
+
+```.py
+test = Stack()
+for elem in ["yellow", "red", "black"]:
+    test.push(elem)
+out = []
+for i in range(4):
+    out.append(test.pop())
+print(out)
+```
+
+### Test Proof

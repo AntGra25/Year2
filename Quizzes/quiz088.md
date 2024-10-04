@@ -27,7 +27,7 @@ class Stack:
 
 ## 3. Proof of Work
 
-### Test Code
+### Testing code
 
 ```.py
 test = Stack()
@@ -39,4 +39,4 @@ for i in range(4):
 print(out)
 ```
 
-### Test Proof
+### Testing result
